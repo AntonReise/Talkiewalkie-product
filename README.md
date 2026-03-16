@@ -13,4 +13,6 @@ A walkthrough of my contributions to **TalkieWalkie**, an innovative platform fo
   <img src="https://github.com/AntonReise/Talkiewalkie-product/blob/main/temp%20app%20screenshots/Screenshot%202025-10-28%20at%2009.44.31.png?raw=true" width="24%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/AntonReise/Talkiewalkie-product/blob/main/temp%20app%20screenshots/Screenshot%202026-03-16%20at%2013.28.48%20(1).png?raw=true" width="24%" />
+</p>
