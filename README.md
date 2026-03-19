@@ -1,6 +1,6 @@
 # TalkieWalkie Product Showcase
 
-A walkthrough of my contributions to **TalkieWalkie**, an innovative platform for audio exploration.
+My contributions to **TalkieWalkie**, an innovative platform for audio exploration. These mainly included frontend tasks, like creating the app itself and the website, as well as some backend tasks.
 
 [**Visit Website**](https://talkiewalkie.app) • [**Download**](https://apps.apple.com/us/app/talkiewalkie-audio-guides/id6749520461)
 
