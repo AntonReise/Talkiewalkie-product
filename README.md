@@ -1,6 +1,6 @@
 # TalkieWalkie Product Showcase
 
-My contributions to **TalkieWalkie**, an innovative platform for audio exploration. These mainly included frontend development, like creating the actual app and website, as well as some backend tasks. Project has been shut down since. 
+My contributions to **TalkieWalkie**, an innovative platform for audio exploration. These mainly included frontend development, like creating the actual app and website, as well as some backend tasks. Project has since been shut down. 
 
 [**Visit Website**](NO LONGER AVAILABLE) • [**Download**](NO LONGER AVAILABLE)
 
